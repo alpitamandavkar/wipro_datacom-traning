@@ -1,0 +1,12 @@
+welcom to linux programming
+1,a
+2,l
+3,p
+4,i
+5,t
+6,a
+7,m
+8,a
+9,n
+10,d
+ALPITA
